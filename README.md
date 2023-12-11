@@ -29,6 +29,7 @@
 <video src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline-timelapse.mp4" controls>Video not supported</video> <figcaption>Beyonce's Husband is from New York</figcaption>
 <footer>
     <p>Do Not Copyright! All rights reserved.  Kaosara Adekola</p>
+    <p> BEYONCE IS JUST THE BEST!!!!! </p>
     </footer>
     </main>
 </body>
